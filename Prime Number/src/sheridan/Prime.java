@@ -26,6 +26,8 @@ public class Prime {
 		
 		System.out.println( "Number 1 is prime? " + Prime.isPrime( 1 ) ); //Vedika Created	
 		
+		System.out.println( "Number 53 is prime? " + Prime.isPrime( 53 ) ); // XInyu Created, second round 
+		
 	}
 
 }
