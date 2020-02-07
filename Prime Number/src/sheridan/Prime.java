@@ -20,7 +20,9 @@ public class Prime {
 		System.out.println( "Number 33 is prime? " + Prime.isPrime( 33 ) );
 		System.out.println( "Number 34 is prime? " + Prime.isPrime( 34 ) );	
 		System.out.println( "Number 35 is prime? " + Prime.isPrime( 35 ) );		
-		System.out.println( "Number 36 is prime? " + Prime.isPrime( 36 ) );				
+		System.out.println( "Number 36 is prime? " + Prime.isPrime( 36 ) );
+		
+		System.out.println( "Number 47 is prime? " + Prime.isPrime( 47 ) ); //XInyu Created	
 		
 	}
 
