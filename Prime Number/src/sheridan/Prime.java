@@ -24,6 +24,8 @@ public class Prime {
 		
 		System.out.println( "Number 47 is prime? " + Prime.isPrime( 47 ) ); //XInyu Created	
 		
+		System.out.println( "Number 1 is prime? " + Prime.isPrime( 1 ) ); //Vedika Created	
+		
 	}
 
 }
